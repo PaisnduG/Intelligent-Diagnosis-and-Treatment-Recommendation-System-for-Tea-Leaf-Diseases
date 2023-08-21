@@ -11,14 +11,12 @@ This project is a comprehensive system for analyzing tea leaves and identifying 
 
 ## Overall Architecture
 
-![Overall Architecture](Overall Architecture.png)
+![Overall Architecture](https://github.com/PaisnduG/Intelligent-Diagnosis-and-Treatment-Recommendation-System-for-Tea-Leaf-Diseases/assets/54570205/38387104-52c9-47d9-9824-a81aa44b05ff)
 
 
 ## Demo
 
-<video width="320" height="240" controls>
-  <source src="Demonstration.mkv" type="video/mkv">
-</video>
+https://github.com/PaisnduG/Intelligent-Diagnosis-and-Treatment-Recommendation-System-for-Tea-Leaf-Diseases/assets/54570205/82978ab7-2422-4a3c-80db-af47c877682b
 
 ## Authors
 
